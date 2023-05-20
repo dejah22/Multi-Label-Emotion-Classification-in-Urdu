@@ -1,6 +1,5 @@
 # Multi-Label Emotion Classification in Urdu
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/dejah-madhusankar/]
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dejah-madhusankar/)
 ##  ML Models to decode compound emotions conveyed in a Urdu-based text 
 Welcome to my repo! This is one of my humble attempts at working with common ML Models, with a motive to contribute towards a need-of-the-day issue.
 
